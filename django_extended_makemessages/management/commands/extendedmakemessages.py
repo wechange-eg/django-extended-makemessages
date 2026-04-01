@@ -26,6 +26,7 @@ import django_extended_makemessages
 IMPORT_ALIAS_IGNORED_FOLDERS = {
     "lib",
     "site-packages",
+    "node_modules",
 }
 
 GETTEXT_FUNCTION_NAMES = {
